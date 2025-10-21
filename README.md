@@ -7,14 +7,14 @@
 <h3 align="center">From Bangladesh 🇧🇩 | Codeforces Pupil | Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;Competitive+Programmer+(Codeforces+Pupil);Open+Source+Contributor;Learning+Every+Day+💪" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=MERN+Stack+Developer;Competitive+Programmer;Open+Source+Contributor;Learning+Every+Day+💪" />
 </p>
 
 ---
 
 ### 🚀 About Me  
-- 🌱 Learning **Next.js**, **TypeScript**, and **DSA**  
-- 🧩 Exploring **Backend Architecture** & **API Security**  
+- 🌱 Learning **React** and **DSA**  
+- 🧩 Exploring **Web Development** & **Competitive Programming**  
 - 🏆 Competitive Programmer at [Codeforces: RubayetRafsan](https://codeforces.com/profile/RubayetRafsan)  
 - 🎯 Goal: Become a **Software Engineer** who builds impactful products  
 - ☕ Code + Logic + Coffee = Productivity ☕  
@@ -23,7 +23,7 @@
 
 ### 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,c,cpp,python,git,github,vscode,tailwind,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,c,cpp,python,git,github,vscode,tailwind,linux" />
 </p>
 
 ---
