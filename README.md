@@ -14,44 +14,21 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%">
 
 ## 🚀 About Me
 
 <table>
 <tr>
 <td width="60%">
-```javascript
-const rafsan = {
-    pronouns: "He" | "Him",
-    location: "🇧🇩 Bangladesh",
-    education: "💼 Computer Science Student",
-    languages: ["JavaScript", "C++", "C", "Python"],
-    currentlyLearning: ["React.js", "Node.js", "MongoDB"],
-    focusAreas: {
-        webDev: "MERN Stack",
-        problemSolving: "Data Structures & Algorithms",
-        competitive: "Codeforces Pupil 💪"
-    },
-    careerGoal: "Software Engineer @ FAANG",
-    motto: "Code. Debug. Repeat. 🔄",
-    lifeFormula: "☕ Coffee + 💻 Code = 🚀 Success"
-};
-```
+Hi, I’m Rubayet Rafsan!  
+I’m a Computer Science and Engineering student at Jashore University of Science and Technology (JUST), currently in my second year. I’m passionate about competitive programming, algorithms, and full-stack web development.
 
-<br>
+As a Pupil (max rating-1247) on Codeforces, I enjoy solving challenging problems that strengthen my problem-solving and logical thinking skills. I have a strong foundation in HTML, CSS, Tailwind CSS, JavaScript (ES6), DOM manipulation, and API integration. I’m currently learning React and gradually expanding my expertise across the MERN stack.
 
-**What I'm up to:**
+I aspire to become a skilled software engineer who contributes to innovative and impactful technologies at a global level. Every day, I aim to learn something new, take on fresh challenges, and turn creative ideas into real-world solutions through code.
 
-✨ Building modern web applications with **MERN Stack**
-
-🧠 Solving **200+ problems** on competitive coding platforms
-
-🎯 Exploring **Web development** and **Competitive Programming**
-
-🌱 Contributing to **Open Source** projects
-
-📬 Let's connect: **rubayetrafsan605@gmail.com**
+📧 Email: 230111.cse@student.just.edu.bd
 
 </td>
 <td width="40%">
@@ -62,7 +39,7 @@ const rafsan = {
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%">
 
 ---
 
@@ -99,7 +76,7 @@ const rafsan = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%">
 
 ---
 
@@ -109,7 +86,7 @@ const rafsan = {
   <img width="100%" src="https://github-profile-trophy.vercel.app/?username=rafsan1p&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%">
 
 ---
 
@@ -125,7 +102,7 @@ const rafsan = {
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=rafsan1p&theme=high-contrast&hide_border=true&bg_color=0D1117&color=4A90E2&line=7B68EE&point=9370DB&area=true&area_color=4A90E2" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%">
 
 ---
 
@@ -147,7 +124,7 @@ const rafsan = {
   </a>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%">
 
 ---
 
@@ -157,7 +134,7 @@ const rafsan = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafsan1p&custom_title=Rafsan's%20Contribution%20Graph&bg_color=0D1117&color=4A90E2&line=7B68EE&point=9370DB&area_color=4A90E2&title_color=4A90E2&area=true&hide_border=true" width="100%"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%">
 
 ---
 
@@ -171,7 +148,7 @@ const rafsan = {
   </picture>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%">
 
 ---
 
@@ -200,7 +177,7 @@ const rafsan = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%">
 
 ---
 
