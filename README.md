@@ -14,8 +14,6 @@
 
 ---
 
-<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%">
-
 ## 🚀 About Me
 
 <table>
@@ -38,8 +36,6 @@ I aspire to become a skilled software engineer who contributes to innovative and
 </td>
 </tr>
 </table>
-
-<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%">
 
 ---
 
@@ -76,8 +72,6 @@ I aspire to become a skilled software engineer who contributes to innovative and
 
 </div>
 
-<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%">
-
 ---
 
 ## 🏆 Achievements & Trophies
@@ -85,8 +79,6 @@ I aspire to become a skilled software engineer who contributes to innovative and
 <div align="center">
   <img width="100%" src="https://github-profile-trophy.vercel.app/?username=rafsan1p&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" />
 </div>
-
-<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%">
 
 ---
 
@@ -101,8 +93,6 @@ I aspire to become a skilled software engineer who contributes to innovative and
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafsan1p&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=4A90E2&text_color=c9d1d9" />
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=rafsan1p&theme=high-contrast&hide_border=true&bg_color=0D1117&color=4A90E2&line=7B68EE&point=9370DB&area=true&area_color=4A90E2" />
 </div>
-
-<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%">
 
 ---
 
@@ -124,8 +114,6 @@ I aspire to become a skilled software engineer who contributes to innovative and
   </a>
 </div>
 
-<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%">
-
 ---
 
 ## 📈 Contribution Graph
@@ -133,8 +121,6 @@ I aspire to become a skilled software engineer who contributes to innovative and
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafsan1p&custom_title=Rafsan's%20Contribution%20Graph&bg_color=0D1117&color=4A90E2&line=7B68EE&point=9370DB&area_color=4A90E2&title_color=4A90E2&area=true&hide_border=true" width="100%"/>
 </div>
-
-<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%">
 
 ---
 
@@ -147,8 +133,6 @@ I aspire to become a skilled software engineer who contributes to innovative and
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rafsan1p/rafsan1p/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
-<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%">
 
 ---
 
@@ -176,8 +160,6 @@ I aspire to become a skilled software engineer who contributes to innovative and
 </a>
 
 </div>
-
-<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%">
 
 ---
 
