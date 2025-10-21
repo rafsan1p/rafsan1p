@@ -1,22 +1,26 @@
-<!--─────────────────────────────────────────────-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Rafsan%20👨‍💻&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20|%20Competitive%20Programmer&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Hi%20There!%20👋%20I'm%20Rafsan&fontSize=50&color=gradient&customColorList=0,2,2,5,30&fontColor=ffffff&stroke=00BFFF&strokeWidth=2&animation=fadeIn&desc=MERN%20Stack%20Developer%20|%20Competitive%20Programmer%20|%20Problem%20Solver&descSize=20&descAlignY=65" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=false&width=600&height=60&lines=MERN+Stack+Developer+%F0%9F%92%BB;Competitive+Programmer+%F0%9F%A7%AE;Open+Source+Contributor+%F0%9F%8C%9F;Building+Impactful+Products+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=70&lines=Full+Stack+Developer+%F0%9F%92%BB;Competitive+Programmer+%F0%9F%A7%AE;Open+Source+Enthusiast+%F0%9F%8C%9F;Building+Cool+Stuff+Every+Day+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rafsan1p&label=Profile%20Views&color=00bfff&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/rafsan1p?label=Followers&style=flat-square&color=00bfff" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=rafsan1p&label=Profile%20Views&color=00bfff&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/rafsan1p?label=Followers&style=for-the-badge&color=00bfff&logo=github" alt="followers" />
+  <img src="https://img.shields.io/github/stars/rafsan1p?label=Stars&style=for-the-badge&color=ffd700&logo=github" alt="stars" />
 </p>
 
 ---
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<table>
+<tr>
+<td width="50%">
 ```javascript
 const rafsan = {
     location: "Bangladesh 🇧🇩",
@@ -29,11 +33,24 @@ const rafsan = {
 };
 ```
 
+<br>
+
 - 🌱 Currently mastering **React.js** and **Data Structures**
 - 💡 Passionate about solving complex problems
 - 🏆 Active competitive programmer on **Codeforces**
 - 🎯 Building projects that make a difference
 - 📫 Reach me: **rubayetrafsan28@gmail.com**
+
+</td>
+<td width="50%">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400px" alt="Coding gif">
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 
@@ -41,84 +58,131 @@ const rafsan = {
 
 <div align="center">
 
-### 💻 Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<table>
+<tr>
+<td align="center" width="25%">
 
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### 💻 **Languages**
 
-### 🔧 Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<img src="https://skillicons.dev/icons?i=c,cpp,js,py&theme=dark" />
+
+</td>
+<td align="center" width="25%">
+
+### 🎨 **Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark" />
+
+</td>
+<td align="center" width="25%">
+
+### 🔧 **Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" />
+
+</td>
+<td align="center" width="25%">
+
+### 🚀 **Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
+
+</td>
+</tr>
+</table>
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 
 ## 🏆 Achievements & Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rafsan1p&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=rafsan1p&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" />
 </div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafsan1p&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rafsan1p&theme=tokyonight&hide_border=true&background=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafsan1p&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00bfff&icon_color=00bfff&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rafsan1p&theme=radical&hide_border=true&background=0D1117&stroke=00bfff&ring=00bfff&fire=ffd700&currStreakLabel=00bfff"/>
 </div>
 
 <div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafsan1p&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img width="45%" src="https://github-readme-activity-graph.vercel.app/graph?username=rafsan1p&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00bfff&line=00bfff&point=ffffff" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafsan1p&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00bfff&text_color=c9d1d9" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=rafsan1p&theme=high-contrast&hide_border=true&bg_color=0D1117&color=00bfff&line=00bfff&point=ffd700&area=true&area_color=00bfff" />
 </div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 
 ## ⚔️ Competitive Programming Journey
 
 <div align="center">
-  
-| Platform | Profile | Status |
-|----------|---------|--------|
-| 🔵 **Codeforces** | [@RubayetRafsan](https://codeforces.com/profile/RubayetRafsan) | ![Codeforces](https://img.shields.io/badge/Pupil-1F8ACB?style=flat-square&logo=codeforces&logoColor=white) |
-| 🟡 **LeetCode** | [@rafsan1p](https://leetcode.com/rafsan1p) | ![LeetCode](https://img.shields.io/badge/Active-FFA116?style=flat-square&logo=leetcode&logoColor=white) |
-| 🟢 **HackerRank** | [@rafsan1p](https://hackerrank.com/rafsan1p) | ![HackerRank](https://img.shields.io/badge/5★-00EA64?style=flat-square&logo=hackerrank&logoColor=white) |
+
+<table>
+<tr>
+<th>Platform</th>
+<th>Profile</th>
+<th>Status</th>
+</tr>
+<tr>
+<td><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" width="30"/></td>
+<td><a href="https://codeforces.com/profile/RubayetRafsan">@RubayetRafsan</a></td>
+<td><img src="https://img.shields.io/badge/Pupil-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></td>
+</tr>
+<tr>
+<td><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" width="30"/></td>
+<td><a href="https://leetcode.com/u/rafsan_03p/">@rafsan_03p</a></td>
+<td><img src="https://img.shields.io/badge/Active-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></td>
+</tr>
+<tr>
+<td><img src="https://img.icons8.com/color/48/000000/hackerrank.png" width="30"/></td>
+<td><a href="https://hackerrank.com/rafsan1p">@rafsan1p</a></td>
+<td><img src="https://img.shields.io/badge/5★-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/></td>
+</tr>
+</table>
 
 </div>
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/rafsan1p?theme=dark&font=Noto%20Sans&ext=activity" />
+  <a href="https://leetcode.com/u/rafsan_03p/">
+    <img src="https://leetcard.jacoblin.cool/rafsan_03p?theme=dark&font=Ubuntu&ext=contest" alt="LeetCode Stats"/>
+  </a>
 </div>
 
----
-
-## 🎯 Current Projects
-
-<div align="center">
-
-[![English Janala](https://github-readme-stats.vercel.app/api/pin/?username=rafsan1p&repo=english-janala&theme=tokyonight&hide_border=true&bg_color=0D1117)]((https://rafsan1p.github.io/english-janala/))
-[![Green Earth](https://github-readme-stats.vercel.app/api/pin/?username=rafsan1p&repo=green-earth&theme=tokyonight&hide_border=true&bg_color=0D1117)]((https://rafsan-green-earth.netlify.app/))
-
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafsan1p&custom_title=Rafsan's%20Contribution%20Graph&bg_color=0D1117&color=00bfff&line=00bfff&point=ffffff&area_color=0D1117&title_color=00bfff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafsan1p&custom_title=Rafsan's%20Contribution%20Graph&bg_color=0D1117&color=00bfff&line=00bfff&point=ffd700&area_color=00bfff&title_color=00bfff&area=true&hide_border=true" width="100%"/>
 </div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafsan1p/rafsan1p/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafsan1p/rafsan1p/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rafsan1p/rafsan1p/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 
@@ -126,50 +190,41 @@ const rafsan = {
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubayet-rafsan28/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rafsan1p)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafsan1p)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rubayetrafsan605@gmail.com)
+<a href="https://www.linkedin.com/in/rubayet-rafsan28/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5&labelColor=0A66C2" alt="LinkedIn"/>
+</a>
+<a href="https://www.facebook.com/rafsan1p">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&color=1877F2&labelColor=0866FF" alt="Facebook"/>
+</a>
+<a href="https://github.com/rafsan1p">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=181717&labelColor=000000" alt="GitHub"/>
+</a>
+<a href="https://codeforces.com/profile/RubayetRafsan">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&color=1F8ACB&labelColor=0E4C75" alt="Codeforces"/>
+</a>
+<a href="https://leetcode.com/u/rafsan_03p/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&color=FFA116&labelColor=FF8C00" alt="LeetCode"/>
+</a>
+<a href="mailto:rubayetrafsan28@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=D14836&labelColor=C5221F" alt="Email"/>
+</a>
 
 </div>
 
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 
 <div align="center">
   
-### 💬 Random Dev Quote
-  
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
+### 💖 Thanks for visiting! Let's connect and build something amazing together! 🚀
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&text=Keep%20Coding!%20💻&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=70"/>
 
----
-
-<div align="center">
-  
-### 🐍 Watch my contribution graph get eaten by the snake!
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafsan1p/rafsan1p/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafsan1p/rafsan1p/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rafsan1p/rafsan1p/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff&animation=twinkling"/>
 </div>
 
 <div align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
   <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
+  <img src="https://forthebadge.com/images/badges/makes-people-smile.svg" />
 </div>
