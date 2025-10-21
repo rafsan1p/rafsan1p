@@ -104,7 +104,7 @@ I aspire to become a skilled software engineer who contributes to innovative and
 |:--------:|:-------:|:------:|
 | <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" width="30"/> | [@RubayetRafsan](https://codeforces.com/profile/RubayetRafsan) | ![Codeforces](https://img.shields.io/badge/Pupil-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white) |
 | <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" width="30"/> | [@rafsan_03p](https://leetcode.com/u/rafsan_03p/) | ![LeetCode](https://img.shields.io/badge/Active-FFA116?style=for-the-badge&logo=leetcode&logoColor=white) |
-| <img src="https://img.icons8.com/color/48/000000/hackerrank.png" width="30"/> | [@rafsan1p](https://hackerrank.com/rafsan1p) | ![HackerRank](https://img.shields.io/badge/5★-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white) |
+| <img src="https://img.icons8.com/color/48/000000/hackerrank.png" width="30"/> | [@rubayetrafsan605](https://www.hackerrank.com/profile/rubayetrafsan605) | ![HackerRank](https://img.shields.io/badge/5★-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white) |
 
 </div>
 
