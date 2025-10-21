@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Hi%20There!%20👋%20I'm%20Rafsan&fontSize=50&color=gradient&customColorList=0,2,2,5,30&fontColor=ffffff&stroke=00BFFF&strokeWidth=2&animation=fadeIn&desc=MERN%20Stack%20Developer%20|%20Competitive%20Programmer%20|%20Problem%20Solver&descSize=20&descAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Hi%20There!%20👋%20I'm%20Rafsan&fontSize=50&color=0:00C9FF,50:92FE9D,100:00F260&fontColor=ffffff&stroke=00BFFF&strokeWidth=3&animation=fadeIn&desc=MERN%20Stack%20Developer%20|%20Competitive%20Programmer%20|%20Problem%20Solver&descSize=20&descAlignY=65" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=70&lines=Full+Stack+Developer+%F0%9F%92%BB;Competitive+Programmer+%F0%9F%A7%AE;Open+Source+Enthusiast+%F0%9F%8C%9F;Building+Cool+Stuff+Every+Day+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F260&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=70&lines=Full+Stack+Developer+%F0%9F%92%BB;Competitive+Programmer+%F0%9F%A7%AE;Open+Source+Enthusiast+%F0%9F%8C%9F;Building+Cool+Stuff+Every+Day+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rafsan1p&label=Profile%20Views&color=00bfff&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/rafsan1p?label=Followers&style=for-the-badge&color=00bfff&logo=github" alt="followers" />
-  <img src="https://img.shields.io/github/stars/rafsan1p?label=Stars&style=for-the-badge&color=ffd700&logo=github" alt="stars" />
+  <img src="https://komarev.com/ghpvc/?username=rafsan1p&label=PROFILE+VIEWS&color=00bfff&style=for-the-badge&logo=github" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/rafsan1p?label=FOLLOWERS&style=for-the-badge&color=00bfff&logo=github&logoColor=white" alt="followers" />
+  <img src="https://img.shields.io/github/stars/rafsan1p?label=STARS&style=for-the-badge&color=ffd700&logo=github&logoColor=white" alt="stars" />
 </p>
 
 ---
@@ -20,7 +20,7 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="60%">
 ```javascript
 const rafsan = {
     location: "Bangladesh 🇧🇩",
@@ -42,9 +42,9 @@ const rafsan = {
 - 📫 Reach me: **rubayetrafsan28@gmail.com**
 
 </td>
-<td width="50%">
+<td width="40%">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400px" alt="Coding gif">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Coding gif">
 
 </td>
 </tr>
@@ -100,7 +100,7 @@ const rafsan = {
 ## 🏆 Achievements & Trophies
 
 <div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=rafsan1p&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" />
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=rafsan1p&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -127,28 +127,11 @@ const rafsan = {
 
 <div align="center">
 
-<table>
-<tr>
-<th>Platform</th>
-<th>Profile</th>
-<th>Status</th>
-</tr>
-<tr>
-<td><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" width="30"/></td>
-<td><a href="https://codeforces.com/profile/RubayetRafsan">@RubayetRafsan</a></td>
-<td><img src="https://img.shields.io/badge/Pupil-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></td>
-</tr>
-<tr>
-<td><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" width="30"/></td>
-<td><a href="https://leetcode.com/u/rafsan_03p/">@rafsan_03p</a></td>
-<td><img src="https://img.shields.io/badge/Active-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></td>
-</tr>
-<tr>
-<td><img src="https://img.icons8.com/color/48/000000/hackerrank.png" width="30"/></td>
-<td><a href="https://hackerrank.com/rafsan1p">@rafsan1p</a></td>
-<td><img src="https://img.shields.io/badge/5★-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/></td>
-</tr>
-</table>
+| Platform | Profile | Status |
+|:--------:|:-------:|:------:|
+| <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" width="30"/> | [@RubayetRafsan](https://codeforces.com/profile/RubayetRafsan) | ![Codeforces](https://img.shields.io/badge/Pupil-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white) |
+| <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" width="30"/> | [@rafsan_03p](https://leetcode.com/u/rafsan_03p/) | ![LeetCode](https://img.shields.io/badge/Active-FFA116?style=for-the-badge&logo=leetcode&logoColor=white) |
+| <img src="https://img.icons8.com/color/48/000000/hackerrank.png" width="30"/> | [@rafsan1p](https://hackerrank.com/rafsan1p) | ![HackerRank](https://img.shields.io/badge/5★-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white) |
 
 </div>
 
@@ -191,22 +174,22 @@ const rafsan = {
 <div align="center">
   
 <a href="https://www.linkedin.com/in/rubayet-rafsan28/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5&labelColor=0A66C2" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://www.facebook.com/rafsan1p">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&color=1877F2&labelColor=0866FF" alt="Facebook"/>
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
 </a>
 <a href="https://github.com/rafsan1p">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=181717&labelColor=000000" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://codeforces.com/profile/RubayetRafsan">
-  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&color=1F8ACB&labelColor=0E4C75" alt="Codeforces"/>
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
 </a>
 <a href="https://leetcode.com/u/rafsan_03p/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&color=FFA116&labelColor=FF8C00" alt="LeetCode"/>
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
 </a>
 <a href="mailto:rubayetrafsan28@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=D14836&labelColor=C5221F" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </div>
@@ -219,7 +202,7 @@ const rafsan = {
   
 ### 💖 Thanks for visiting! Let's connect and build something amazing together! 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&text=Keep%20Coding!%20💻&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=70"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:92FE9D,100:00F260&height=150&section=footer&text=Keep%20Coding!%20💻&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=70"/>
 
 </div>
 
