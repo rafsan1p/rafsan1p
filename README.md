@@ -21,12 +21,12 @@
 <td width="60%">
 
 Hi, I’m **Rubayet Rafsan**! 👋  
-I’m a Computer Science and Engineering student at **Jashore University of Science and Technology (JUST)**, currently in my second year. I live at the intersection of complex algorithms and scalable web development.
+I’m a **Computer Science and Engineering** student at **JUST** (2nd Year). I am deeply passionate about solving algorithmic challenges and building scalable web applications.
 
 - 🏆 **Competitive Programming:** [Specialist](https://codeforces.com/profile/RubayetRafsan) on Codeforces (Max Rating: **1553**).
-- 💻 **MERN Stack:** Building robust web solutions with React, MongoDB, and Node.js.
-- 🤖 **AI / ML:** Deeply curious and currently exploring Machine Learning models and Artificial Intelligence.
-- 🎯 **Aspiration:** To become a world-class Software Engineer contributing to impactful global tech.
+- 💻 **MERN Stack:** Experienced in building full-stack applications with React and MongoDB.
+- 🤖 **AI / ML:** Actively exploring Machine Learning and Neural Networks.
+- 🎯 **Daily Goal:** Solve at least one hard problem and learn a new tech stack.
 
 📫 Reach me at: **rubayetrafsan28@gmail.com**
 
@@ -43,17 +43,14 @@ I’m a Computer Science and Engineering student at **Jashore University of Scie
 
 <div align="center">
 
-### 💻 **Languages & Logic**
-<img src="https://skillicons.dev/icons?i=c,cpp,js,py&theme=dark" />
+### 💻 **Languages & Core**
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
-### 🎨 **Frontend & Styling**
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,redux,bootstrap,sass&theme=dark" />
+### 🎨 **Frontend & Backend (MERN)**
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
-### 🚀 **Backend & Database**
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,postman&theme=dark" />
-
-### 🤖 **Tools & AI Interest**
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,tensorflow,pytorch&theme=dark" />
+### 🚀 **Tools & AI Interest**
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 
 </div>
 
@@ -65,9 +62,9 @@ I’m a Computer Science and Engineering student at **Jashore University of Scie
 
 | Platform | Profile | Rank / Status |
 |:--------:|:-------:|:------:|
-| <img src="https://img.icons8.com/color/48/000000/codeforces.png" width="30"/> | [@RubayetRafsan](https://codeforces.com/profile/RubayetRafsan) | ![Specialist](https://img.shields.io/badge/Specialist-03A89E?style=for-the-badge&logo=codeforces&logoColor=white) |
-| <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" width="30"/> | [@rafsan_03p](https://leetcode.com/u/rafsan_03p/) | ![Active](https://img.shields.io/badge/Solved-300+-FFA116?style=for-the-badge&logo=leetcode&logoColor=white) |
-| <img src="https://img.icons8.com/color/48/000000/hackerrank.png" width="30"/> | [@rubayetrafsan605](https://www.hackerrank.com/profile/rubayetrafsan605) | ![5★](https://img.shields.io/badge/5★-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white) |
+| <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="25"/> | [@RubayetRafsan](https://codeforces.com/profile/RubayetRafsan) | ![Specialist](https://img.shields.io/badge/Specialist-03A89E?style=for-the-badge&logo=codeforces&logoColor=white) |
+| <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="25"/> | [@rafsan_03p](https://leetcode.com/u/rafsan_03p/) | ![Active](https://img.shields.io/badge/Solved-300+-FFA116?style=for-the-badge&logo=leetcode&logoColor=white) |
+| <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="25"/> | [@rubayetrafsan605](https://www.hackerrank.com/profile/rubayetrafsan605) | ![5★](https://img.shields.io/badge/5★-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white) |
 
 </div>
 
@@ -112,7 +109,6 @@ I’m a Computer Science and Engineering student at **Jashore University of Scie
 <a href="mailto:rubayetrafsan28@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://codeforces.com/profile/RubayetRafsan"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
 <a href="https://www.facebook.com/rafsan1p"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-<a href="https://leetcode.com/u/rafsan_03p/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 </div>
 
 ---
