@@ -58,7 +58,7 @@ I’m a **Computer Science and Engineering** student at **JUST** (2nd Year). I a
 | Platform | Profile | Rank / Status |
 |:--------:|:-------:|:------:|
 | <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="25"/> | [@RubayetRafsan](https://codeforces.com/profile/RubayetRafsan) | ![Specialist](https://img.shields.io/badge/Specialist-03A89E?style=for-the-badge&logo=codeforces&logoColor=white) |
-| <img src="https://cdn.simpleicons.org/codechef/FFFFFF" width="25"/> | [@rafsan28](https://www.codechef.com/users/rafsan28) | ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white) |
+| <img src="https://cdn.simpleicons.org/codechef/FFFFFF" width="25"/> | [@rafsan28](https://www.codechef.com/users/rafsan28) | ![3 Star](https://img.shields.io/badge/3★-5B4638?style=for-the-badge&logo=codechef&logoColor=white) |
 | <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="25"/> | [@rafsan_03p](https://leetcode.com/u/rafsan_03p/) | ![Solved](https://img.shields.io/badge/Solved-14-FFA116?style=for-the-badge&logo=leetcode&logoColor=white) |
 | <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="25"/> | [@rubayetrafsan605](https://www.hackerrank.com/profile/rubayetrafsan605) | ![Rank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white) |
 
