@@ -21,7 +21,7 @@ I’m a **Computer Science and Engineering** student at **JUST** (2nd Year). I a
 - 🏆 **Competitive Programming:** [Specialist](https://codeforces.com/profile/RubayetRafsan) on Codeforces (Max Rating: **1553**).
 - 💻 **MERN Stack:** Experienced in building full-stack applications with React and MongoDB.
 - 🤖 **AI / ML:** Actively exploring Machine Learning and Neural Networks.
-- 🎯 **Daily Goal:** Solve at least one hard problem and learn a new tech stack.
+- 🎯 **Daily Goal:** Solve at least one problem and learn something new.
 
 📫 Reach me at: **rubayetrafsan28@gmail.com**
 
@@ -39,7 +39,7 @@ I’m a **Computer Science and Engineering** student at **JUST** (2nd Year). I a
 <div align="center">
 
 ### 💻 **Languages & Core**
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
 ### 🎨 **Frontend & Backend (MERN)**
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -58,8 +58,9 @@ I’m a **Computer Science and Engineering** student at **JUST** (2nd Year). I a
 | Platform | Profile | Rank / Status |
 |:--------:|:-------:|:------:|
 | <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="25"/> | [@RubayetRafsan](https://codeforces.com/profile/RubayetRafsan) | ![Specialist](https://img.shields.io/badge/Specialist-03A89E?style=for-the-badge&logo=codeforces&logoColor=white) |
-| <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="25"/> | [@rafsan_03p](https://leetcode.com/u/rafsan_03p/) | ![Active](https://img.shields.io/badge/Solved-300+-FFA116?style=for-the-badge&logo=leetcode&logoColor=white) |
-| <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="25"/> | [@rubayetrafsan605](https://www.hackerrank.com/profile/rubayetrafsan605) | ![5★](https://img.shields.io/badge/5★-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white) |
+| <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/codechef.svg" width="25" style="filter: invert(1);"/> | [@rafsan28](https://www.codechef.com/users/rafsan28) | ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white) |
+| <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="25"/> | [@rafsan_03p](https://leetcode.com/u/rafsan_03p/) | ![Solved](https://img.shields.io/badge/Solved-14-FFA116?style=for-the-badge&logo=leetcode&logoColor=white) |
+| <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="25"/> | [@rubayetrafsan605](https://www.hackerrank.com/profile/rubayetrafsan605) | ![Rank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white) |
 
 </div>
 
